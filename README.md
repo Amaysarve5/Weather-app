@@ -13,4 +13,4 @@ The Weather App provides real-time weather updates and forecasts for locations w
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/weather-app.git
+   git clone https://github.com/your-username/weather-app.git
